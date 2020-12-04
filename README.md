@@ -1,6 +1,22 @@
+<img src="https://acl2020.org/assets/images/logos/acl-logo.png" width=10% /> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" width=25% /><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>EMNLP2020</b> <br/>
+
+Pytorch implementation of the paper <b>"Modulated Fusion using Transformer for Linguistic-Acoustic Emotion Recognition"</b><br/>
 ```
-@article{ModulatedFusion,
-  title={Modulated Fusion using Transformer for Linguistic-Acoustic Emotion Recognition},
+@inproceedings{delbrouck-etal-2020-modulated,
+    title = "Modulated Fusion using Transformer for Linguistic-Acoustic Emotion Recognition",
+    author = "Delbrouck, Jean-Benoit  and
+      Tits, No{\'e}  and
+      Dupont, St{\'e}phane",
+    booktitle = "Proceedings of the First International Workshop on Natural Language Processing Beyond Text",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.nlpbt-1.1",
+    doi = "10.18653/v1/2020.nlpbt-1.1",
+    pages = "1--10",
+    abstract = "This paper aims to bring a new lightweight yet powerful solution for the task of Emotion Recognition and Sentiment Analysis. Our motivation is to propose two architectures based on Transformers and modulation that combine the linguistic and acoustic inputs from a wide range of datasets to challenge, and sometimes surpass, the state-of-the-art in the field. To demonstrate the efficiency of our models, we carefully evaluate their performances on the IEMOCAP, MOSI, MOSEI and MELD dataset. The experiments can be directly replicated and the code is fully open for future researches.",
 }
 ```
 
